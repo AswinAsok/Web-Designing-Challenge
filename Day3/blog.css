@@ -1,0 +1,43 @@
+body{
+    margin: 0px;
+}
+.header{
+    width: 100%;
+    background: rgb(6, 219, 247);
+    height: 125px;
+}
+.left-section{
+    width: 200px;
+    float: left;
+    height: 400px;
+    background:rgb(0, 253, 177);
+
+}
+.middle-section{
+    width: 945px;
+    float: left;
+    height: 400px;
+    background: grey;
+
+}
+.rightmost-section{
+    width: 217px;
+    float: left;
+    height: 400px;
+    background: rgb(0, 253, 177);
+}
+.footer{
+    width: 100%;
+    background: rgb(0, 140, 255);
+    height: 125px;
+}
+.content{
+    height: 400px;
+}
+.text{
+    color: white;
+    padding: 170px;
+    
+    font-size: xxx-large;
+    padding-left: 225px;
+}

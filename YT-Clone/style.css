@@ -1,0 +1,172 @@
+body{
+    margin: 0px;
+}
+.top-header{
+    height: 57px;
+    width: 100%;
+}
+.left-section{
+    font-family: Roboto, Arial, sans-serif;
+    font-size: 14px;
+}
+.menu-image{
+    padding: 21px;
+    float: left;
+}
+.lefttop-yt{
+    float: left;
+    padding-top: 11px;
+}
+.search{
+    float: left;
+    margin-left: 175px;
+    width: 100px;
+    
+}
+.inner-search{
+    width: 554px;
+    height: 27px;
+}
+.search-button{
+    float: left;
+    padding-left: 462px;
+    padding-top: 16px;
+
+}
+.sbtn{
+    height: 33px;
+    width: 65px;
+}
+
+.headerright{
+    float: left;
+    padding-left: 195px;
+    padding-top: 12px;
+}
+.home{
+    padding-left: 21px;
+    padding-top: 8px;
+    float: left;
+
+}
+.home-text{
+    float: left;
+    padding-top: 13px;
+    padding-left: 25px;
+}
+.Trending{
+    padding-left: 21px;
+    padding-top: 8px;
+    float: left;
+
+}
+.Trending-text{
+    float: left;
+    padding-top: 13px;
+    padding-left: 23px;
+}
+.Subscriptions{
+    padding-left: 21px;
+    padding-top: 8px;
+    float: left;
+
+}
+.Subscriptions-text{
+    float: left;
+    padding-top: 13px;
+    padding-left: 25px;
+}
+.Line-1{
+    float: left;
+    width:15%;
+    text-align:left;
+    margin-left:0
+}
+.library{
+    padding-left: 21px;
+    padding-top: 8px;
+    float: left;
+
+}
+.library-text{
+    float: left;
+    padding-top: 13px;
+    padding-left: 23px;
+}
+.history{
+    padding-left: 21px;
+    padding-top: 8px;
+    float: left;
+
+}
+.history-text{
+    float: left;
+    padding-top: 13px;
+    padding-left: 23px;
+}
+.yvideos{
+    padding-left: 21px;
+    padding-top: 8px;
+    float: left;
+
+}
+.yvideos-text{
+    float: left;
+    padding-top: 13px;
+    padding-left: 25px;
+}
+.wlater{
+    padding-left: 21px;
+    padding-top: 8px;
+    float: left;
+
+}
+.wlater-text{
+    float: left;
+    padding-top: 13px;
+    padding-left: 25px;
+}
+.lvideos{
+    padding-left: 21px;
+    padding-top: 8px;
+    float: left;
+
+}
+.lvideos-text{
+    float: left;
+    padding-top: 13px;
+    padding-left: 25px;
+}
+.smore{
+    padding-left: 21px;
+    padding-top: 15px;
+    float: left;
+
+}
+.smore-text{
+    float: left;
+    padding-top: 13px;
+    padding-left: 25px;
+}
+.subs{
+    float: left;
+    padding-top: 13px;
+    padding-left: 25px;
+}
+.crossroads{
+    padding-left: 21px;
+    padding-top: 8px;
+    float: left;
+
+}
+.crossroads-text{
+    float: left;
+    padding-top: 13px;
+    padding-left: 19px;
+}
+.live{
+    padding-left: 20px;
+    padding-top: 12px;
+}
+
+
