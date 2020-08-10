@@ -8,7 +8,12 @@ body{
 .left-section{
     font-family: Roboto, Arial, sans-serif;
     font-size: 14px;
-    width: 15%;
+    width: 18%;
+    float: left;
+}
+.right-section{
+    
+
 }
 .menu-image{
     padding: 21px;
@@ -80,7 +85,7 @@ body{
 }
 .Line-1{
     float: left;
-    width:200px;
+    width: 245px;
     text-align:left;
     margin-left:0
 }
@@ -170,5 +175,14 @@ body{
     padding-left: 20px;
     padding-top: 12px;
 }
-
-
+.AllRec{
+    float: left;
+    border-radius: 25px;
+    background: #F2F2F2;
+    color: black;
+    padding: 9px;
+    width: 167px;
+    height: 37px;
+    margin-left: 18px;
+    border-width: 1px;
+}
