@@ -223,10 +223,22 @@ body{
 .T4{
     margin-left: 16px;
 }
-.T1-Text{
-    margin-left: 24px;
-    font-size: 15px;
-}
 .logo1{
     margin-left: 20px;
 }
+.T1-Text{
+    font-size: 15px;
+    margin: 7px;
+
+}
+.Channel{
+    margin-left: 68px;
+    font-size: 13px;
+    font-family: sans-serif;
+}
+.viewsDate{
+    margin-left: 68px;
+    font-size: 13px;
+    margin-top: 2px;
+}
+
