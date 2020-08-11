@@ -11,6 +11,7 @@ body{
     font-size: 14px;
     width: 18%;
     float: left;
+    height: 625px;
 }
 .right-section{
     
@@ -187,7 +188,9 @@ body{
     margin-left: 18px;
     border-width: 1px;
 }
-
+.Row1{
+    height: 240px;
+}
 .RecText{
     font-size: 18px;
     margin-left: 25px;
@@ -209,6 +212,22 @@ body{
     float: left;
     margin-top: 21px;
 }
+.Thumbnail5{
+    float: left;
+    margin-top: 0px;
+}
+.Thumbnail6{
+    float: left;
+    margin-top: 0px;
+}
+.Thumbnail7{
+    float: left;
+    margin-top: 0px;
+}
+.Thumbnail8{
+    float: left;
+    margin-top: 0px;
+}
 .T1{
     margin-left: 25px;
     margin-top: 20px;
@@ -221,6 +240,18 @@ body{
     margin-left: 16px;
 }
 .T4{
+    margin-left: 16px;
+}
+.T5{
+    margin-left: 25px;
+}
+.T6{
+    margin-left: 16px;
+}
+.T7{
+    margin-left: 16px;
+}
+.T8{
     margin-left: 16px;
 }
 .logo1{
@@ -240,5 +271,8 @@ body{
     margin-left: 68px;
     font-size: 13px;
     margin-top: 2px;
+}
+.Thumbnail5{
+
 }
 
