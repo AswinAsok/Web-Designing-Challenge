@@ -1,5 +1,6 @@
 body{
     margin: 0px;
+    font-family: Roboto, Arial, sans-serif;
 }
 .top-header{
     height: 57px;
@@ -185,4 +186,47 @@ body{
     height: 37px;
     margin-left: 18px;
     border-width: 1px;
+}
+
+.RecText{
+    font-size: 18px;
+    margin-left: 25px;
+    font-family: sans-serif;
+    font-weight: 600;
+}
+.Thumbnail1{
+    float: left;
+}
+.Thumbnail2{
+    float: left;
+    margin-top: 21px;
+}
+.Thumbnail3{
+    float: left;
+    margin-top: 21px;
+}
+.Thumbnail4{
+    float: left;
+    margin-top: 21px;
+}
+.T1{
+    margin-left: 25px;
+    margin-top: 20px;
+}
+.T2{
+    margin-left: 16px;
+    margin-bottom: 3px;
+}
+.T3{
+    margin-left: 16px;
+}
+.T4{
+    margin-left: 16px;
+}
+.T1-Text{
+    margin-left: 24px;
+    font-size: 15px;
+}
+.logo1{
+    margin-left: 20px;
 }
