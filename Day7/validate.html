@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Fun with Forms</title>
+</head>
+<body>
+    <h1 style="text-align: center;">The Hilarious Team</h1>
+    <form id="sign-up">
+        <fieldset >
+            <p>In Order to Enter the team Enter your Details</p>
+            <p>Username : <input name="uname" type="text" placeholder="Username"></p>
+            <p>Email : <input name="emailadd" type = "email" placeholder="E-mail"></p>
+            <p>DOB : <input name="dobi" type="text"></p>
+            <p>
+                Gender<br>
+                <input type = "radio" name="Gen"> Male 
+                <input type = "radio" name="Gen"> Female 
+            </p>
+            <p>
+                Education
+                <select>
+                    <option>Choose</option>
+                    <option>+2</option>
+                    <option>Graduate</option>
+                </select>
+            </p>
+            <hr>
+            <p>By Clicking the submit button you agree to all the <strong>Terms and Conditons </Strong>which are not <u><i>mentioned anywhere</i></u></p>
+            <input type = "submit">
+        </fieldset>
+    </form>
+
+
+    <script src="https://code.jquery.com/jquery-3.5.1.js" integrity="sha256-QWo7LDvxbWT2tbbQ97B53yJnYU3WhH/C8ycbRAkjPDc=" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/jquery-validation@1.19.2/dist/jquery.validate.js"></script>
+    <script src="validate.js"></script>
+</body>
+</html>
